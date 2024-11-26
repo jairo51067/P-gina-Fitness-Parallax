@@ -1,9 +1,10 @@
 # Fitness Life - Página Web Parallax  
 Este proyecto es una página web para un gimnasio llamada "Fitness Life". Destaca por su diseño parallax y su interfaz intuitiva que fomenta el interés por un estilo de vida saludable. El proyecto superó desafíos como la implementación de navegación móvil y diseño adaptable. Utiliza tecnologías fundamentales como HTML5, CSS3 y JavaScript para ofrecer una experiencia visual atractiva. Este proyecto demuestra habilidades en diseño web básico y capacidad para crear sitios con propósito funcional y enfoque en el usuario.
 
-[Enlace al proyecto](URL del proyecto)  
-
+[Enlace al proyecto](https://jairo51067.github.io/Pagina-Fitness-Parallax/)  
+<br>
 Imagen del proyecto
+<br>
 ![Fitness Life](https://github.com/user-attachments/assets/99882054-e3ae-4be2-b5e0-bda8e3e0a1d2)
 
 
