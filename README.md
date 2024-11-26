@@ -5,7 +5,8 @@ Este proyecto es una página web para un gimnasio llamada "Fitness Life". Destac
 <br>
 Imagen del proyecto
 <br>
-![Fitness Life](https://github.com/user-attachments/assets/99882054-e3ae-4be2-b5e0-bda8e3e0a1d2)
+![Fitness Life](https://github.com/user-attachments/assets/0059a931-56ef-4b8c-9db8-5f3d878726a2)
+
 
 
 ## Descripción
