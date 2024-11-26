@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inscripción Gimnasio</title>
+  <link rel="stylesheet" href="style/inscripcion.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Inscripción al Gimnasio</h1>
+    <form action="#" method="post">
+      <div class="form-group">
+        <label for="nombre">Nombre Completo</label>
+        <input type="text" id="nombre" name="nombre" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Correo Electrónico</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group">
+        <label for="telefono">Teléfono</label>
+        <input type="tel" id="telefono" name="telefono" required>
+      </div>
+      <div class="form-group">
+        <label for="fecha-nacimiento">Fecha de Nacimiento</label>
+        <input type="date" id="fecha-nacimiento" name="fecha-nacimiento" required>
+      </div>
+      <div class="form-group">
+        <label for="objetivo">Objetivo</label>
+        <select id="objetivo" name="objetivo" required>
+          <option value="">Seleccione...</option>
+          <option value="perder-peso">Perder Peso</option>
+          <option value="ganar-musculo">Ganar Músculo</option>
+          <option value="mantenerse-sano">Mantenerse Sano</option>
+        </select>
+      </div>
+      <div class="botones">
+        <button class="button" type="submit">Inscribirse</button>
+        <a href="index.html" class="button">Retornar</a>
+      </div>
+      <h2>Nuestros Horarios</h2>
+      <p>Lunes a Viernes: 6:00 AM - 9:00 PM</p>
+      <p>Sábados y Domingos: 8:00 AM - 2:00 PM</p>
+      <h2>Nuestra Dirección</h2>
+      <p>Calle 123, Colonia XYZ, Ciudad ABC, CP 12345</p>
+    </form>
+  </div>
+</body>
+
+</html>
